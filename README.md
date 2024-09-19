@@ -1,3 +1,3 @@
 # 💫 About Me:
-🌱 ITMO 3rd year student<br>📌 Applied Informatics, Mobile and network technologies (Intelligent data analysis) <br>🧷 Data analysis methods additional degree <br> 
-
+🌱 ITMO University, Saint-Petersburg, Russia 📌 Intelligent Data Analysis (2021-2025)
+🌱 ELTE University, Budapest, Hungary 📌 Computer Science (2024) 
