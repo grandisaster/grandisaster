@@ -9,7 +9,7 @@
     * 🌍 **ELTE University** – ***Stipendium Hungaricum Holder**, Computer Science* (2024 – 2025)
       📍 Budapest, Hungary
 * Work Experience:
-      * **SimpleOne**  – Systems Analyst (2024-current)
+    *  💫 **SimpleOne**  – Systems Analyst (2024-current)
      📍 Saint Petersburg, Russia
 
 <!-- ## 🛠️ Skills & Tech Stack
