@@ -8,10 +8,9 @@
       📍 Saint Petersburg, Russia
     * 🌍 **ELTE University** – ***Stipendium Hungaricum Holder**, Computer Science* (2024 – 2025)
       📍 Budapest, Hungary
-* Master's degree:
-    * 🤖 **ITMO University** – *M.Sc. Big Data & Machine Learning* (2025 – 2027)
-  📍 Saint Petersburg, Russia
-
+* Work Experience:
+      * **SimpleOne**  – Systems Analyst (2024-current)
+     📍 Saint Petersburg, Russia
 
 <!-- ## 🛠️ Skills & Tech Stack
 
